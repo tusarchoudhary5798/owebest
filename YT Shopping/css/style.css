@@ -1,0 +1,10 @@
+.nav-link {
+    color: white;
+    display: block;
+    padding: .5rem 1rem;
+    text-decoration: none;
+}
+.a {
+    color: #0d6efd;
+    color: yellow;
+    text-decoration: underline;
